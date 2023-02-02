@@ -58,6 +58,26 @@
   <a href="#" title="Tiendndev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tiendndev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+  <!-- Pinned Repo -->
+<br>
+  <a href="#" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=theband&theme=transparent&show_owner=true" />
+  </a>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=RestoFood&theme=radical&show_owner=true" />
+  </a>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=music-player&theme=merko&show_owner=true" />
+  </a>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=Catering&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=Smart-Aquarium&theme=synthwave&show_owner=true" />
+  </a>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=cv-dntien&theme=jolly&show_owner=true" />
+  </a>
 </div>
 
 <br>
@@ -82,23 +102,4 @@
   <img src="svg/tiendndev-quotes.svg" width="846" height="150" alt="tiendndev-official" />
 </a>
 
-<!-- Pinned Repo -->
-<br>
-<a href="#" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=theband&theme=transparent&show_owner=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=RestoFood&theme=radical&show_owner=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=music-player&theme=merko&show_owner=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=Catering&theme=tokyonight&show_owner=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=Smart-Aquarium&theme=synthwave&show_owner=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=cv-dntien&theme=jolly&show_owner=true" />
-</a>
+
