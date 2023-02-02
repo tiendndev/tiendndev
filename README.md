@@ -58,12 +58,6 @@
   <a href="#" title="Tiendndev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tiendndev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-  </a>
 </div>
 
 <br>
@@ -89,4 +83,12 @@
 <br>
 <a href="#" target="_blank">
   <img src="svg/tiendndev-quotes.svg" width="846" height="150" alt="tiendndev-official" />
+</a>
+
+<!-- Pinned Repo -->
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=theband&theme=transparent" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=RestoFood&theme=radical" />
 </a>
