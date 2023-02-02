@@ -71,9 +71,6 @@
   <a href="https://www.facebook.com/ngtienn304" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ngoctien-facebook" />
   </a>
-  <!-- <a href="" target="blank">
-    <img src="" alt="ngoctien-instagram" />
-  </a> -->
   <a href="mailto:ngoctien300401@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ngoctien-email" />
   </a>
@@ -88,20 +85,20 @@
 <!-- Pinned Repo -->
 <br>
 <a href="#" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=theband&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=theband&theme=transparent&show_owner=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=RestoFood&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=RestoFood&theme=radical&show_owner=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=music-player&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=music-player&theme=merko&show_owner=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=Catering&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=Catering&theme=tokyonight&show_owner=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=Smart-Aquarium&theme=synthwave " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=Smart-Aquarium&theme=synthwave&show_owner=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=cv-dntien&theme=jolly " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=cv-dntien&theme=jolly&show_owner=true" />
 </a>
