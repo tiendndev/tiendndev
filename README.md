@@ -86,7 +86,7 @@
 </a>
 
 <!-- Pinned Repo -->
-<a href="#">
+<a href="#" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=theband&theme=transparent" />
 </a>
 <a href="#">
