@@ -102,5 +102,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=Smart-Aquarium&theme=synthwave " />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=cn-dntien&theme=jolly " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=cv-dntien&theme=jolly " />
 </a>
