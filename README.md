@@ -92,3 +92,15 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=RestoFood&theme=radical" />
 </a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=music-player&theme=merko" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=Catering&theme=tokyonight" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=Smart-Aquarium&theme=synthwave " />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiendndev&repo=cn-dntien&theme=jolly " />
+</a>
